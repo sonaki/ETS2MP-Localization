@@ -1,7 +1,7 @@
 <?php
 $_lang["Download"] = "Изтегли";
 $_lang["Home"] = "Начало";
-$_lang["Status"] = "Състояние";
+$_lang["Status"] = "Състояние на сървърите";
 $_lang["Username"] = "Потребителско име";
 $_lang["Password"] = "Парола";
 $_lang["Login"] = "Вход";
