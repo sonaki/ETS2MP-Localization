@@ -86,3 +86,6 @@ $_lang["contact.message.too.short"] = "Съобщението е твърде к
 $_lang["contact.topic.too.short"] = "Темата е твърде къса. Минимум 10 символа.";
 $_lang["invalid.mail.forgot.password"] = "Ние не можем да намерим профил свързан с тази Е-Поща.";
 $_lang["error.cannot.fetch.steam.api"] = "Няма достъп до вашата информация за профила от Steam. Опитайте по-късно.";
+$_lang["steamid.in.use"] = "Ние открихме свързан ETS2MP профил свръзнан към Steam акаунта. Ако имате някакви проблеми с регистрацията моля <a href=\"http://ets2mp.com/index.php?page=contact\">свържете се с нас</a>.";
+$_lang["mail.does.not.match"] = "Е-Пощата не съвпада.";
+$_lang["support"] = "Поддръжка";
